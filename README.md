@@ -9,6 +9,8 @@ https://www.buymeacoffee.com/nishad2m8
 
 | No.  | Thumb | Youtube URL |
 | ------|-----|----------|
+| 12 | ![alt text](<00-Assets/12-PV Solar energy dashboard on lilygo T-Display S3 esp32.jpg>)  | https://youtu.be/rV4lL5rnFMs|
+| 11 | ![alt text](<00-Assets/11-Home automation dashboard controller.jpg>)  | https://youtu.be/y1dwVHGadNk|
 | 10 | ![alt text](<00-Assets/10-esp32 Pomodoro timer.jpg>)  | https://youtu.be/n_zfqWQbfIw|
 | 9 | ![alt text](<00-Assets/09-companion bot.jpg>)  | https://youtu.be/fA-LGrint70|
 | 8 | ![alt text](<00-Assets/08-Compass UI on ESP32 T-Display S3.jpg>) | https://youtu.be/P-8HxCbIPsg|
