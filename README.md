@@ -7,6 +7,10 @@ https://www.buymeacoffee.com/nishad2m8
 
 ---
 
+Check [00-OBP](#) for Squareline Studio Open Board Platform
+
+---
+
 | No.  | Thumb | Youtube URL |
 | ------|-----|----------|
 | 12 | ![alt text](<00-Assets/12-PV Solar energy dashboard on lilygo T-Display S3 esp32.jpg>)  | https://youtu.be/rV4lL5rnFMs|
