@@ -7,7 +7,7 @@ https://www.buymeacoffee.com/nishad2m8
 
 ---
 
-Check [00-OBP](#) for Squareline Studio Open Board Platform
+Check [00-OBP](https://github.com/nishad2m8/T-Display-S3-YT/tree/master/00-OBP) for Squareline Studio Open Board Platform
 
 ---
 
