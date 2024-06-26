@@ -13,6 +13,7 @@ Check [OBP](https://github.com/nishad2m8/Squareline-OBP) for Squareline Studio O
 
 | No.  | Thumb | Youtube URL |
 | ------|-----|----------|
+| 13 | ![alt text](<00-Assets/13-Attitude Indicator on T-Display S3 Simple Setup with SquareLine Studio.jpg>)|https://youtu.be/nNuizBO6Op8 |
 | 12 | ![alt text](<00-Assets/12-PV Solar energy dashboard on lilygo T-Display S3 esp32.jpg>)  | https://youtu.be/rV4lL5rnFMs|
 | 11 | ![alt text](<00-Assets/11-Home automation dashboard controller.jpg>)  | https://youtu.be/y1dwVHGadNk|
 | 10 | ![alt text](<00-Assets/10-esp32 Pomodoro timer.jpg>)  | https://youtu.be/n_zfqWQbfIw|
