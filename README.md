@@ -20,6 +20,19 @@ Check [OBP](https://github.com/nishad2m8/Squareline-OBP) for Squareline Studio O
 
 ---
 
+### ❗Copy all the `libraries` to the project's `lib` folder.
+
+```
+Project/
+├── lib/
+│   ├── lv_conf.h
+│   ├── lvgl/
+│   ├── TFT_eSPI/
+│   └── ui/
+├── src/
+│   └── main.cpp
+```
+
 | No.  | Thumb | Youtube URL |
 | ------|-----|----------|
 | 13 | ![alt text](<00-Assets/13-Attitude Indicator on T-Display S3 Simple Setup with SquareLine Studio.jpg>)|https://youtu.be/nNuizBO6Op8 |
